@@ -12,6 +12,7 @@ Col1 Before You Run this tools
   - Extract The Zip File
   - Install the requirements (Node JS)
   - run **install.bat**
+  - Change The Webhook URL
   - than run **node Main.js**
 
 ## Information
